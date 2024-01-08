@@ -1,0 +1,49 @@
+body {
+    background-color: darkgreen;
+    color: wheat;
+    font-family: helvetica Neue, Arial, Helvetica, sans-serif;
+    padding: 0px;
+
+}
+header {
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+
+    
+}
+section {
+    background-color: darkmagenta;
+    padding: 20px;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    
+}
+div {
+    background-color: darkred;
+    display: inline-block;
+    margin: auto;
+    width: 100px;
+    ;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+footer {
+    background-color: dimgrey;
+    margin: 20px;
+    padding: 0px;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+}
